@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a passionate junior front-end developer with experience building frontend applications using React, JavaScript, jQuery, HTML, and CSS. I enjoy the creative and logical aspects that come with creating websites and I love learning new things every day.',
-  paragraphTwo: "Feel free to contact me on LinkedIn. Conversations are welcome!",
-  paragraphThree: 'Gmail : sabzehparvar.mojtaba@gmail.com',
+  paragraphTwo: "",
+  paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -29,11 +29,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'React birthday reminder',
+    info: 'This project was created using React and Bootstrap and the data was acquired from reqres.in api',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://react-birthday-sabzeparvar.vercel.app',
+    repo: 'https://github.com/sabzehparvar/react-birthday-reminder', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
