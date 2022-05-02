@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a passionate junior front-end developer with experience building frontend applications using React, JavaScript, jQuery, HTML, and CSS. I enjoy the creative and logical aspects that come with creating websites and I love learning new things every day.',
-  paragraphTwo: "",
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphTwo: ' ',
+  paragraphThree: ' ',
+  resume: 'sabzehparvar.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
