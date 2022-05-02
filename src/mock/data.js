@@ -74,7 +74,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'puzzle.jpg',
-    title: 'Puzzle Gamer',
+    title: 'Puzzle Game',
     info: 'I created this puzzle using JavaScript and jQuery.',
     info2: 'It has two levels of easy and hard.',
     url: 'https://github.com/sabzehparvar/puzzle-jQuery',
