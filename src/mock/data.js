@@ -28,21 +28,21 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'React birthday reminder',
-    info: 'This project was created using React and Bootstrap and the data was acquired from reqres.in api',
-    info2: '',
-    url: 'https://react-birthday-sabzeparvar.vercel.app',
-    repo: 'https://github.com/sabzehparvar/react-birthday-reminder', // if no repo, the button will not show up
+    img: 'users-with-React.jpg',
+    title: 'React users panel',
+    info: 'This project was created using React, Bootstrap and skeleton loading. In order to be able to see the loading, the data loads with 2 seconds of delay .',
+    info2: 'The data was acquired from reqres.in api',
+    url: 'https://react-users-sabzehparvar.vercel.app',
+    repo: 'https://github.com/sabzehparvar/users-with-React', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'React-birthday-reminder.jpg',
+    title: 'React birthday reminder',
+    info: 'This project was created using React and Bootstrap.',
+    info2: 'The data was acquired from reqres.in api',
+    url: 'https://react-birthday-sabzeparvar.vercel.app',
+    repo: 'https://github.com/sabzehparvar/react-birthday-reminder', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
