@@ -48,9 +48,18 @@ export const projectsData = [
     id: nanoid(),
     img: 'verjen.jpg',
     title: 'verjen.ir',
-    info: 'I have collaborated in the development of this wordpress website .',
+    info: 'I have collaborated in the development of this Wordpress website .',
     info2: 'It has been created using Astra theme.',
     url: 'https://verjen.ir',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'avoa.jpg',
+    title: 'avoa.ir',
+    info: 'I created this website using Wordpress cms and Elementor page builder plugin.',
+    info2: 'The theme of this site is Astra.',
+    url: 'https://avoa.ir',
     repo: '', // if no repo, the button will not show up
   },
   
