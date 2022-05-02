@@ -10,9 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: `
-  Mojtaba Sabzehparvar`,
-  subtitle: "I'm a junior react developer",
+  name: 'Mojtaba Sabzehparvar',
+  subtitle: "I'm a junior React developer",
   cta: '',
 };
 
@@ -87,7 +86,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: '',
-  btn: 'My Email',
+  btn: '',
   email: 'sabzehparvar.mojtaba@gmail.com',
 };
 
