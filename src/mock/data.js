@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: `
-  'Mojtaba Sabzehparvar'`,
+  Mojtaba Sabzehparvar`,
   subtitle: "I'm a junior react developer",
   cta: '',
 };
@@ -47,8 +47,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Verjen.jpg',
-    title: 'verjen',
+    img: 'verjen.jpg',
+    title: 'Verjen',
     info: 'I have collaborated in the development of this Wordpress website .',
     info2: 'It has been created using Astra theme.',
     url: 'https://verjen.ir',
@@ -78,8 +78,8 @@ export const projectsData = [
     title: 'Puzzle Gamer',
     info: 'I created this puzzle using JavaScript and jQuery.',
     info2: 'It has two levels of easy and hard.',
-    url: '',
-    repo: 'https://github.com/sabzehparvar/puzzle-jQuery', // if no repo, the button will not show up
+    url: 'https://github.com/sabzehparvar/puzzle-jQuery',
+    repo: '', // if no repo, the button will not show up
   },
   
 ];
@@ -87,7 +87,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: '',
-  btn: '',
+  btn: 'My Email',
   email: 'sabzehparvar.mojtaba@gmail.com',
 };
 
