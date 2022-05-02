@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a passionate junior front-end developer with experience building frontend applications using React, JavaScript, jQuery, HTML, and CSS. I enjoy the creative and logical aspects that come with creating websites and I love learning new things every day.',
   paragraphTwo: ' ',
   paragraphThree: ' ',
-  resume: 'sabzehparvar.pdf', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up https://www.resumemaker.online/es.php
 };
 
 // PROJECTS DATA
@@ -46,13 +46,14 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'verjen.jpg',
+    title: 'verjen.ir',
+    info: 'I have collaborated in the development of this wordpress website .',
+    info2: 'It has been created using Astra theme.',
+    url: 'https://verjen.ir',
+    repo: '', // if no repo, the button will not show up
   },
+  
 ];
 
 // CONTACT DATA
