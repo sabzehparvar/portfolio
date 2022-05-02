@@ -47,7 +47,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'verjen.jpg',
+    img: 'Verjen.jpg',
     title: 'verjen',
     info: 'I have collaborated in the development of this Wordpress website .',
     info2: 'It has been created using Astra theme.',
@@ -57,7 +57,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'avoa.jpg',
-    title: 'avoa',
+    title: 'Avoa',
     info: 'I created this website using Wordpress cms and Elementor page builder plugin.',
     info2: 'The theme of this site is Astra.',
     url: 'https://avoa.ir',
@@ -66,11 +66,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'gamer-club.jpg',
-    title: 'gamer club',
+    title: 'Gamer Club',
     info: 'I created this website using Wordpress cms and Elementor page builder plugin.',
     info2: 'Astra wordpress theme has been used for creating this website.',
     url: 'https://gamer-club.ir',
     repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'puzzle.jpg',
+    title: 'Puzzle Gamer',
+    info: 'I created this puzzle using JavaScript and jQuery.',
+    info2: 'It has two levels of easy and hard.',
+    url: '',
+    repo: 'https://github.com/sabzehparvar/puzzle-jQuery', // if no repo, the button will not show up
   },
   
 ];
@@ -79,7 +88,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'sabzehparvar.mojtaba@gmail.com',
 };
 
 // FOOTER DATA
